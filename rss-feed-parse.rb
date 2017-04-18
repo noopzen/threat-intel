@@ -1,3 +1,6 @@
+##################################################
+# NoopZen - Josh Dellinger - 2017
+#
 require 'open-uri'
 require 'nokogiri'
 require 'net/smtp'
